@@ -69,7 +69,7 @@ function noHp(kontak) {
 }
 document.write(`Perkenalkan nama saya ${nama("Muhammad Tajul 'Arus 'Arofy.")} <br> 
 Umur saya ${age("14 tahun.")} <br> Alamat rumah saya ${alamat("JL. Raya MAUK, Kecamatan MAUK, Desa Tegal Kunir Kidul.")} <br> 
-Hobi saya adalah ${hobi("baca sejarah kedatangan islam dan kisah kehidupan <br>yang di jalani oleh NABI MUHAMMAD ﷺ.")} <br> 
-Saya bersekolah di ${school("SMK TI BAZMA dan jurusan saya adalah SIJA.")} <br> 
+Hobi saya adalah ${hobi("baca Sejarah Kebudayaan Islam .")} <br> 
+Saya bersekolah di ${school("SMK TI BAZMA dengan jurusan SIJA.")} <br> 
 Saya kelas ${kelas("10 SMK.")}<br> 
-Cita-cita saya adalah ${cita2("DOSEN dan Pengusaha ternak.")} <br> Jika ingin informasi lengkapnya hubungi kontak ini : ${noHp("0859-5924-9123.")} <br>`);``
+Cita-cita saya adalah ${cita2("Dosen dan Pengusaha.")} <br> Jika ingin informasi lengkapnya hubungi kontak ini : ${noHp("0859-5924-9123.")} <br>`);``
